@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am funny😅**
 - 🌱 I’m currently learning java script,react,HTML
-- 💬 Ask me about js, redux, dsa
+- 💬 Ask me about javascript, redux, dsa
 - 📫 How to reach me pushpendra1697@gmail.com
 - 📫 My Portfolio : [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner) 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1dgjJ1WOOxHqsYum6BQcD7BX6-0sTkQl-/view?usp=sharing)
