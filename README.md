@@ -7,13 +7,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushpendra-1697" alt="pushpendra-1697" /></a> </p> -->
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
+- 👨‍💻 All of my projects are available at [Portfolio](https://myportfolio-seven-delta.vercel.app/)
 
 - ⚡ Fun fact **I am funny😅**
 - 🌱 I’m currently learning java script,react,HTML
 - 💬 Ask me about javascript, redux, dsa
 - 📫 How to reach me pushpendra1697@gmail.com
-- 📫 My Portfolio : [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner) 
+- 📫 My Portfolio : [https://myportfolio-seven-delta.vercel.app/](https://myportfolio-seven-delta.vercel.app/) 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1dgjJ1WOOxHqsYum6BQcD7BX6-0sTkQl-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
