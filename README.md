@@ -14,7 +14,7 @@
 - 💬 Ask me about javascript, redux, dsa
 - 📫 How to reach me pushpendra1697@gmail.com
 - 📫 My Portfolio : [https://myportfolio-seven-delta.vercel.app/](https://myportfolio-seven-delta.vercel.app/) 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1dgjJ1WOOxHqsYum6BQcD7BX6-0sTkQl-/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/10eGZL5yUSMIlgFI00U5NUzfsbyVviDlm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
