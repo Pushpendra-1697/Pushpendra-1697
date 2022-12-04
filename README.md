@@ -17,6 +17,7 @@
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/10eGZL5yUSMIlgFI00U5NUzfsbyVviDlm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/pushpendra-singh-48912a23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushpendra singh" height="30" width="40" /></a>
 <a href="https://github.com/Pushpendra-1697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="simplified_learner" height="30" width="40" /></a>
