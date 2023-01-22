@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning java script,react,HTML
 - 💬 Ask me about javascript, redux, dsa
 - 📫 How to reach me pushpendra1697@gmail.com
-- 📫 My Portfolio : [https://myportfolio-seven-delta.vercel.app/](https://myportfolio-seven-delta.vercel.app/) 
+- 📫 My Portfolio : [https://pushpendra-1697.github.io/](https://pushpendra-1697.github.io/)
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/10eGZL5yUSMIlgFI00U5NUzfsbyVviDlm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
