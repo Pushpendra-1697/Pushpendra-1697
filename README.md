@@ -14,7 +14,7 @@
 - 💬 Ask me about javascript, redux, dsa
 - 📫 How to reach me pushpendra1697@gmail.com
 - 📫 My Portfolio : [https://pushpendra-1697.github.io/](https://pushpendra-1697.github.io/)
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/15nozP6x8wMlXFVOlbWc5_JgnrOGsnbdB/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1xnEE2pfTY6XU0RMgHckov4oPuE7WhKcN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
