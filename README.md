@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [Portfolio](https://myportfolio-seven-delta.vercel.app/)
 
 - ⚡ Fun fact **I am funny😅**
-- 🌱 I’m currently learning java script,react,HTML
+- 🌱 I’m currently learning java script,react,HTML,next.js
 - 💬 Ask me about javascript, redux, dsa
 - 📫 How to reach me pushpendra1697@gmail.com
 - 📫 My Portfolio : [https://pushpendra-1697.github.io/](https://pushpendra-1697.github.io/)
